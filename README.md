@@ -1,2 +1,3 @@
-# dw_matrix
-Projekt transformacja, poznaj reguły gry
+# Projekt transformacja, czyli Matrix - poznaj reguły gry
+Tutaj pojawią się zadania z 5 dni kursu DataWorkshop - Matrix:
+- Dzień 1: założenie repozytorium
